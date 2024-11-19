@@ -1,0 +1,12 @@
+aioschedule==0.5.2
+g4f==0.1.5.4
+aiogram==2.25.1
+numpy==1.23.5
+crypto-address-validator==0.5.0
+bs4==0.0.1
+urllib3==1.26.8
+requests==2.28.1
+pycountry==22.3.5
+Pillow==9.5.0
+opencv-python==4.8.1.78
+pydotmap==0.1.3
